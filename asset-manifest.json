@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Verifynft/static/css/main.06985510.css",
-    "main.js": "/Verifynft/static/js/main.1db76e80.js",
+    "main.js": "/Verifynft/static/js/main.f417fa13.js",
     "static/js/631.b8116b87.chunk.js": "/Verifynft/static/js/631.b8116b87.chunk.js",
     "static/js/997.f10cf9ae.chunk.js": "/Verifynft/static/js/997.f10cf9ae.chunk.js",
     "static/js/828.fb6ff879.chunk.js": "/Verifynft/static/js/828.fb6ff879.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/347.276be7c1.chunk.js": "/Verifynft/static/js/347.276be7c1.chunk.js",
     "index.html": "/Verifynft/index.html",
     "main.06985510.css.map": "/Verifynft/static/css/main.06985510.css.map",
-    "main.1db76e80.js.map": "/Verifynft/static/js/main.1db76e80.js.map",
+    "main.f417fa13.js.map": "/Verifynft/static/js/main.f417fa13.js.map",
     "631.b8116b87.chunk.js.map": "/Verifynft/static/js/631.b8116b87.chunk.js.map",
     "828.fb6ff879.chunk.js.map": "/Verifynft/static/js/828.fb6ff879.chunk.js.map",
     "882.9fd90fdb.chunk.js.map": "/Verifynft/static/js/882.9fd90fdb.chunk.js.map",
@@ -19,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.06985510.css",
-    "static/js/main.1db76e80.js"
+    "static/js/main.f417fa13.js"
   ]
 }
